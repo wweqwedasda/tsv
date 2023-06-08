@@ -1,0 +1,71 @@
+Title ID	Region	Name	PKG direct link	RAP	Content ID	Last 
+Modification Date		Download .RAP file	File Size		SHA256	
+FILEMANAG	EU	FileManager_v1.41				
+https://github.com/Zarh/ManaGunZ/releases/download/1.41/FileManager_						
+v1.41.pkg	EP0001-FILEMANAG_00-0000000000000000				EP0001-FILEMANAG_00-	
+0000000000000000			12171120			
+IRISMAN00	EU	IRISMAN 4.90.1				
+https://github.com/aldostools/IRISMAN/releases/download/4.90/IRISMAN						
+_4.90.pkg	IRISMAN00_00-VER4880000000000			UP0001-IRISMAN00_00-		
+VER4880000000000			29411984			
+MANAGUNZ0	EU	ManaGunZ v1.41				
+https://github.com/Zarh/ManaGunZ/releases/download/1.41/ManaGunZ_v1.						
+41.pkg	EP0001-MANAGUNZ0_00-0000000000000000				EP0001-MANAGUNZ0_00-	
+0000000000000000			17563040			
+PS3SFM001	EU	Simple file manager	v0.5.2			
+http://github.com/lmirel/fm_psx/releases/download/v0.5.2/sfm_ps3.pkg						
+UP0001-PS3SFM001_00-0000000000000000				UP0001-PS3SFM001_00-		
+0000000000000000			1098800			
+UPDWEBMOD	EU	webMAN MOD 1.47.44				
+"https://github.com/aldostools/webMAN-
+MOD/releases/download/1.47.44/webMAN_MOD_1.47.44_Installer.pkg EP0001-"						
+UPDWEBMOD_00-0000000000000000			EP0001-UPDWEBMOD_00-0000000000000000			
+	13580448					
+BLES80608	EU	multiMAN_04.85.01_BASE				
+"https://archive.midnightchannel.net/SonyPS/Firmware/download/06bcd1c
+3f4469a4e618c8937811c5753/multiMAN_04.85.01_BASE_(20191010).pkg"						
+EPBLES-BLES80608_00-MULTIMANAGER0485				EPBLES-BLES80608_00-		
+MULTIMANAGER0485			36052992			
+BLES80608	US	MULTIMAN				
+http://the.zukostore.workers.dev/2:/multiMAN.pkg					UPBLES-	
+BLES80608_00-MULTIMANAGER0485			UPBLES-BLES80608_00-MULTIMANAGER0485			
+	36052992					
+NP0APOLLO	EU	Apollo Save Tool v1.8.4				
+"https://github.com/bucanero/apollo-
+ps3/releases/download/v1.8.4/apollo-ps3.pkg"				UP0001-NP0APOLLO_00-		
+0000000000000000		UP0001-NP0APOLLO_00-0000000000000000				
+6477936						
+UP0001001	US	Artemis r6.3				
+https://github.com/bucanero/ArtemisPS3/releases/download/r6.3/Artemi						
+sPS3-GUI.pkg		UP0001-ARTPS3001_00-0000000000000000			UP0001-	
+ARTPS3001_00-0000000000000000				6744304		
+NPEA00374	EU	MmSs-R-v04.85.01-Cybm	https://archive.org/download/mm-			
+ss-r-v-04.85.01-cybm/MmSs-R-v04.85.01-Cybm.pkg					EP9000-NPEA00374_00-	
+SINGSTARPS3V0101		EP9000-NPEA00374_00-SINGSTARPS3V0101				
+176800000						
+RELOADXMB	EU	Reload_XMB.pkg.950.v1.00				
+"https://github.com/wweqwedasda/PKGi-PS3-
+v1.1.8222/raw/main/Reload_XMB.pkg.950.v1.00_brewology_com.pkg EP0001-"						
+RELOADXMB_00-0000000000000000			EP0001-RELOADXMB_00-0000000000000000			
+	102400					
+RELOADXMB	EU	Reload_XMB.pkg.950.v1.00				
+"https://github.com/wweqwedasda/PKGi-PS3-
+v1.1.8222/raw/main/Reload_XMB.pkg.950.v1.00_brewology_com.pkg EP0001-"						
+RELOADXMB_00-0000000000000000			EP0001-RELOADXMB_00-0000000000000000	
+	102400			
+NP00PKGI3	EU	PKGi PS3 v1.1.8		
+	https://github.com/wweqwedasda/tahar/raw/main/PKGi%20PS3%20v1.1.8.pk			
+g	EP0001-NP00PKGI3_00-0000111122223333			EP0001-NP00PKGI3_00-
+0000111122223333		5873888		
+NP00PKGI3	EU	PKGi PS3 v1.2.4		
+	https://github.com/wweqwedasda/tahar/raw/main/PKGi%20PS3%20v1.2.4.pk			
+g	EP0001-NP00PKGI3_00-0000111122223333			EP0001-NP00PKGI3_00-
+0000111122223333		7549056		
+NPEA00374	EU	MmSs-R-v04.85.01-Cybm	https://archive.org/download/mm-	
+ss-r-v-04.85.01-cybm/MmSs-R-v04.85.01-Cybm.pkg				UP9000-NPEA00374_00-
+SINGSTARPS3V0101		UP9000-NPEA00374_00-SINGSTARPS3V0101		
+	176800000			
+NPEA00374	EU	MmSs-R-v04.85.01-Cybm	https://archive.org/download/mm-	
+ss-r-v-04.85.01-cybm/MmSs-R-v04.85.01-Cybm.pkg				UP9000-NPEA00374_00-
+SINGSTARPS3V0101 UP9000-NPEA00374_00-SINGSTARPS3V0101				
+	176800000			
